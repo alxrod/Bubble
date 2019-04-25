@@ -1,0 +1,6 @@
+framework module Pods_BubbleUITests {
+  umbrella header "Pods-BubbleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
